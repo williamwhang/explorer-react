@@ -1,5 +1,6 @@
-export function App() {
-    throw new Error('Algo deu errado!!!');
+import './styles/global.css';
 
-    return <h1>Hello ReactJS</h1>
+export function App() {
+
+    return <h1>Hello World!!!</h1>
 }
